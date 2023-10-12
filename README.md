@@ -17,7 +17,7 @@ Whether you are researching or simply browsing articles online, use QuickInsight
 QuickInsight leverages the power of OpenAI to deliver accurate and coherent summaries. The underlying technology ensures that you receive high-quality insights, making your information consumption more efficient.
 
 5. Test Case Generation
-6 
+
 Enhance your testing process by using QuickInsight to automatically generate test cases based on the content you provide. Improve the accuracy and coverage of your testing efforts with minimal manual effort.
 
 Techstack- java, spring , swing , openAI
