@@ -14,10 +14,34 @@ Whether you are researching or simply browsing articles online, use our app to g
 
 3. OpenAI-Powered Technology
  
-QuickInsight leverages the power of OpenAI to deliver accurate and coherent summaries. The underlying technology ensures that you receive high-quality insights, making your information consumption more efficient.
+Our app leverages the power of OpenAI to deliver accurate and coherent summaries. The underlying technology ensures that you receive high-quality insights, making your information consumption more efficient.
 
 4. Test Case Generation
 
 Enhance your testing process by using QuickInsight to automatically generate test cases based on the content you provide. Improve the accuracy and coverage of your testing efforts with minimal manual effort.
 
+5.Migration from tech to another
+
+select the tech from the source and convert it into desired tech by choosing dropdown in target . you can also give extra command in the input text to tailor according to 
+your need and usecase.
+
 Techstack- java, spring , swing , openAI, thymleaf, html, genai,.
+
+generates summary:
+
+<p align="left">
+  <img src="https://github.com/sakshisingh301/GenAIpluginCode/assets/65009101/d6b16e7f-ddef-4443-9ccd-ae1786234a26" alt="Image 1" width="400px">
+</p>
+
+migrate code:
+
+<p align="left">
+  <img src="https://github.com/sakshisingh301/GenAIpluginCode/assets/65009101/0879b8b2-658c-4712-b0d1-5f8f57b1ec91" alt="Image 1" width="400px">
+</p>
+
+generate testcase :
+
+<p align="left">
+  <img src="https://github.com/sakshisingh301/GenAIpluginCode/assets/65009101/3d2a410b-f3d9-4848-80a3-8da5c3ae4dc0" alt="Image 1" width="400px">
+</p>
+
