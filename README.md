@@ -10,7 +10,7 @@ Quickly get a summary of the YouTube videos you are watching without having to g
 
 2. Article Summarization
 
-Whether you are researching or simply browsing articles online, use QuickInsight to generate summarized versions, allowing you to grasp the main points and key information without reading the entire article.
+Whether you are researching or simply browsing articles online, use our app to generate summarized versions, allowing you to grasp the main points and key information without reading the entire article.
 
 3. OpenAI-Powered Technology
  
