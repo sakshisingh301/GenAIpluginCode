@@ -2,7 +2,7 @@
 
 Overview
 
-Welcome to my app,  go-to application for accessing quick summaries of YouTube videos, articles, and generating test cases effortlessly using OpenAI technology. This app is designed to streamline your information consumption and testing process, providing you with valuable insights in a matter of seconds. You can also migrate your code from an older technology to new one by just one click.
+Welcome to my app,  go-to application for accessing quick summaries of YouTube videos, articles, and generating test cases effortlessly using OpenAI technology. This app is designed to streamline your information consumption and testing process, providing you with valuable insights in a matter of seconds.You can also migrate your code from an older technology to new one by just one click.
 
 Features
 1. YouTube Video Summaries
