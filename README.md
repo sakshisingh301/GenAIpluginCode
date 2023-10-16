@@ -8,15 +8,15 @@ Features
    
 Quickly get a summary of the YouTube videos you are watching without having to go through the entire content. Save time and stay informed with concise and relevant information.
 
-3. Article Summarization
+2. Article Summarization
 
 Whether you are researching or simply browsing articles online, use QuickInsight to generate summarized versions, allowing you to grasp the main points and key information without reading the entire article.
 
-4. OpenAI-Powered Technology
+3. OpenAI-Powered Technology
  
 QuickInsight leverages the power of OpenAI to deliver accurate and coherent summaries. The underlying technology ensures that you receive high-quality insights, making your information consumption more efficient.
 
-5. Test Case Generation
+4. Test Case Generation
 
 Enhance your testing process by using QuickInsight to automatically generate test cases based on the content you provide. Improve the accuracy and coverage of your testing efforts with minimal manual effort.
 
